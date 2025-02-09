@@ -2,7 +2,7 @@
   "name": "landing-page",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://KMArundhathi.github.io/Landingpage-task",
+  "homepage": "https://kmarundhathi.github.io/Landingpage-task/",
   "type": "module",
   "scripts": {
     "dev": "vite",
